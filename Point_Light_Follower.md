@@ -8,4 +8,4 @@
 <br> Codepen : https://codepen.io/hardik_gupta/pen/ExoPwqX?editors=0010
 <br> JSFiddle : https://jsfiddle.net/hardikgupta/o7eu8dsh/23/</h4>
 
-<iframe width="100%" height="300" src="//jsfiddle.net/hardikgupta/o7eu8dsh/30/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<script async src="//jsfiddle.net/hardikgupta/o7eu8dsh/30/embed/"></script>
